@@ -3,8 +3,9 @@ layout: page
 title: Officers
 ---
 
-* President: None
-* Vice President: None
-* Treasurer: None
-* Secretary: None
-* Historian: None
+* President: Sam Thomason 
+* Vice President: Sammy Shin 
+* Secretary: Will Craven 
+* Treasurer: TBD 
+* Historian: Kathryn Uribe
+* Communications: Olivia Kubes 
