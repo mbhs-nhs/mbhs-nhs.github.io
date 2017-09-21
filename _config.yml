@@ -17,7 +17,7 @@ title: McKinney Boyd High School National Honor Society
 # email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the official site of the McKinney Boyd High School National Honor Society
-baseurl: "/mbhs-nhs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
