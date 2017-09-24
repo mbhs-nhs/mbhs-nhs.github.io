@@ -6,6 +6,6 @@ title: Officers
 * President: Sam Thomason 
 * Vice President: Sammy Shin 
 * Secretary: Will Craven 
-* Treasurer: TBD 
+* Treasurer: Coco Creedon
 * Historian: Kathryn Uribe
 * Communications: Olivia Kubes 
