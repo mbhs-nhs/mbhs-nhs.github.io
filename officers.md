@@ -9,3 +9,9 @@ title: Officers
 * Treasurer: Coco Creedon
 * Historian: Kathryn Uribe
 * Communications: Olivia Kubes 
+
+# Sponsor
+
+Ms. Chancy Smith
+
+[cmsmith@mckinneyisd.net](mailto:cmsmith@mckinneyisd.net)
