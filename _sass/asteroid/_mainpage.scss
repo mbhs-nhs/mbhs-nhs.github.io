@@ -1,3 +1,9 @@
+$text-color:    #555;
+$card-color:    #EFE;
+
+$light-green:   #ADA;
+$light-blue:    #AAD;
+
 .pillar {
     border: solid red;
     background-color: lightblue;
@@ -15,7 +21,7 @@
 
 .info-slide {
     padding: 10px;
-    background-color: #EEFFEE;
+    background-color: $card-color;
     margin-top: 100px;
     height: 700px;
     width: 600px;
@@ -25,10 +31,9 @@
     .header {
         font-size: 50px;
         font-weight: 900;
-        margin: auto 0;
-        background: grey;
-        color: white;
+        color: $text-color;
         width: 500px;
+        margin-bottom: 10px;
     }
 
 
@@ -39,10 +44,10 @@
     }
 
     .take-action {
-        background-color: #A0A0D0;
+        background-color: $light-blue;
     }
 
     .learn-more {
-        background-color: #A0D0A0;
+        background-color: $light-green;
     }
 }
