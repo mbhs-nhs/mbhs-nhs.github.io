@@ -51,3 +51,22 @@ $light-blue:    #AAD;
         background-color: $light-green;
     }
 }
+
+.backgroundpics{
+  min-height: 100%;
+  max-width: 100%;
+  background-size: 100% 100%;
+}
+
+.container {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.overlay {
+  @extend .container;
+  max-height: 100%;
+  background-image: url("https://source.unsplash.com/1920x1080/?landscape");
+  background-size: 100% 100%;
+
+}
