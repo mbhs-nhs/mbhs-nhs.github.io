@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.overlay {
+  // @extend .container;
+  min-height: 70%;
+  min-width: 100%;
+  background-image: url("https://source.unsplash.com/1920x1080/?landscape");
+  background-size: 70% 100%;
+
+}
