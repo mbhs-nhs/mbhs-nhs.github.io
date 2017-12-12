@@ -3,3 +3,19 @@
 html {
     font-family: 'Open Sans', sans-serif;
 }
+
+$f1: 3rem;
+$f2: 2.25rem;
+$f3: 1.5rem;
+$f4: 1.25rem;
+$f5: 1rem;
+$f6: .875rem;
+$f7: .75rem;
+
+.f1 { font-size: $f1; }
+.f2 { font-size: $f2; }
+.f3 { font-size: $f3; }
+.f4 { font-size: $f4; }
+.f5 { font-size: $f5; }
+.f6 { font-size: $f6; }
+.f7 { font-size: $f7; }
