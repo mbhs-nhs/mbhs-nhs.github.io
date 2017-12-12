@@ -28,8 +28,12 @@ html, body {
   width: 54%;
   height: 120vh;
   background: #ffffff;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 $box-shadow;
   border-radius: 4px;
   vertical-align: middle;
   text-align: center;
+}
+
+.action-button {
+
 }
