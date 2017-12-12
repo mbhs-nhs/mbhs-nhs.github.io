@@ -17,24 +17,24 @@ html, body {
   padding: 0;
 }
 
-.tag-positioning {
+.positioning-tag {
   min-height: 100vh;
-  width: 50%;
+  width: 70%;
   padding-top: 1%;
+  .header-tag {
+    
+  }
 }
 
 .cards {
-  margin: 0 38% 0 7%;
-  width: 54%;
+  margin: 0 41% 0 7%;
+  width: 52%;
   height: 120vh;
   background: #ffffff;
   box-shadow: 0 4px 8px 0 $box-shadow;
   border-radius: 4px;
   vertical-align: middle;
   text-align: center;
-}
-
-.action-button {
 
 }
 
