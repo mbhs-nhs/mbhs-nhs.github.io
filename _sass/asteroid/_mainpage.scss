@@ -31,23 +31,24 @@
     }
 
 
-    a.button {
-        margin: 20px 10px;
-        padding: 5px;
-        text-decoration: none;
-    }
-
-    .take-action {
-        background-color: $light-blue;
-    }
-
-    .learn-more {
-        background-color: $dark-blue;
-    }
 }
 
 .backgroundpics{
   min-height: 100%;
   max-width: 100%;
   background-size: 100% 100%;
+}
+
+a.button {
+    margin: 20px 10px;
+    padding: 5px;
+    text-decoration: none;
+
+    &.primary {
+        background-color: $dark-blue;
+    }
+
+    &.secondary {
+        background-color: $light-blue;
+    }
 }
