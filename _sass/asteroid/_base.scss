@@ -46,7 +46,6 @@ html, body {
 a.button {
     margin: 20px 10px;
     padding: 5px;
-    text-decoration: none;
 
     &.primary {
         background-color: $dark-blue;
@@ -55,4 +54,8 @@ a.button {
     &.secondary {
         background-color: $light-blue;
     }
+}
+
+a {
+    text-decoration: none;
 }
