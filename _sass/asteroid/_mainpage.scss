@@ -1,5 +1,6 @@
 $text-color:    #555;
-$card-color:    #EFE;
+
+$card-color:    #DFD;
 
 $light-green:   #ADA;
 $light-blue:    #AAD;
@@ -49,5 +50,11 @@ $light-blue:    #AAD;
 
     .learn-more {
         background-color: $light-green;
+    }
+}
+
+.carousel-test {
+    div.item  {
+        background-color: $light-blue;
     }
 }
