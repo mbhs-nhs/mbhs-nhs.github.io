@@ -1,9 +1,21 @@
 article.post {
     margin: 0px 50px;
 
-    h1.post-title {
-        font-size: 50px;
+    header.post-header {
+        h1.post-title {
+            font-size: $f1;
+            margin-bottom: 0px;
+        }
+
+        h2.post-subtitle {
+            margin: 0px;
+            font-size: $f2;
+            font-weight: normal;
+        }
+
+        text-align: center;
     }
+
 
     .post-content {
     }

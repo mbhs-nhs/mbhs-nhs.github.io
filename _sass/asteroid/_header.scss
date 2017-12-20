@@ -7,23 +7,45 @@ header.site-header {
         .wrapper {
             a.site-title {
                 color: $white;
+                text-transform: uppercase;
+                font-size: $f1;
+
+                .mbhs {
+                }
+
+                .nhs {
+                    font-weight: bold;
+                }
+
             }
+            text-align: center;
+            max-width: 900px;
+            margin: 0 auto;
         }
     }
 
     nav.header-navigation {
         padding: 0px;
         background-color: $blue;
-        ul {
-            margin: 0px;
-            display: flex;
-            list-style-type: none;
+        .wrapper {
+            ul {
+                margin: 0px;
+                display: flex;
+                list-style-type: none;
 
-            li {
-                margin: 5px;
-                padding: 10px;
-                float: left;
+                li {
+                    margin: 5px;
+                    padding: 10px;
+                    float: left;
+                    text-align: center;
+                    a {
+                        color: $white;
+                    }
+                }
             }
+
+            max-width: 600px;
+            margin: 0 auto;
         }
     }
 }

@@ -4,17 +4,19 @@
         {% assign default_paths = site.pages | map: "path" %}
         {% assign page_paths = site.header_pages | default: default_paths %}
         <a class="site-title" href="{{ "/" | relative_url }}">
-          <div class="f1">
-          {{ site.title | escape }}
-          </div>
+            <span class="mbhs">McKinney Boyd High School</span>
+            <span class="nhs">National Honor Society</span>
         </a>
       </div>
   </div>
   <nav class="header-navigation">
-      <ul>
-          <li><a>Gallery</a></li>
-          <li><a>Leadership</a></li>
-          <li><a>About</a></li>
-      </ul>
+      <div class="wrapper">
+          <ul>
+              <li><a href="/gallery">Gallery</a></li>
+              <li><a href="/about">About</a></li>
+              <li><a href="/members">Members</a></li>
+              <li><a href="/projects">Projects</a></li>
+          </ul>
+      </div>
   </nav>
 </header>

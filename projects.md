@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Service Projects
+subtitle: See how we're making a difference
 ---
 
-There are no projects yet this year. Please check back up later! 
+Updates are coming soon.

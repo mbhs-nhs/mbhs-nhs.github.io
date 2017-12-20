@@ -1,6 +1,7 @@
 ---
 layout: page 
 title: Members 
+subtitle: Stay up to date on member responsibilities
 ---
 
 # Etiquette:
