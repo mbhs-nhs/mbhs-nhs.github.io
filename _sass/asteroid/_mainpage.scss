@@ -7,7 +7,7 @@ $light-blue:    #AAD;
 
 .pillar {
     border: solid red;
-    background-color: lightblue;
+    background-color: $light-blue;
     color: blue;
     padding: 50px 25px;
     margin-bottom: 20px;
@@ -22,7 +22,7 @@ $light-blue:    #AAD;
 
 .info-slide {
     padding: 10px;
-    background-color: $card-color;
+    background-color: $light-grey;
     margin-top: 100px;
     height: 700px;
     width: 600px;
@@ -32,25 +32,18 @@ $light-blue:    #AAD;
     .header {
         font-size: 50px;
         font-weight: 900;
-        color: $text-color;
+        color: $dark-grey;
         width: 500px;
         margin-bottom: 10px;
     }
 
 
-    a.button {
-        margin: 20px 10px;
-        padding: 5px;
-        text-decoration: none;
-    }
+}
 
-    .take-action {
-        background-color: $light-blue;
-    }
-
-    .learn-more {
-        background-color: $light-green;
-    }
+.backgroundpics{
+  min-height: 100%;
+  max-width: 100%;
+  background-size: 100% 100%;
 }
 
 .carousel-test {

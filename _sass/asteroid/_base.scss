@@ -1,0 +1,61 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+  min-width: 100%;
+  min-height: 100%;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.overlay {
+  height: 85vh;
+  // background-image: url("https://source.unsplash.com/1920x1080/?beach");
+  background-size: 100% 100%;
+  padding: 0;
+}
+
+.positioning-tag {
+  min-height: 100vh;
+  width: 70%;
+  padding-top: 1%;
+  .header-tag {
+    
+  }
+}
+
+.cards {
+  margin: 0 41% 0 7%;
+  width: 52%;
+  height: 120vh;
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 $box-shadow;
+  border-radius: 4px;
+  vertical-align: middle;
+  text-align: center;
+
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a.button {
+    margin: 20px 10px;
+    padding: 5px;
+
+    &.primary {
+        background-color: $dark-blue;
+    }
+
+    &.secondary {
+        background-color: $light-blue;
+    }
+}
+
+a {
+    text-decoration: none;
+}
