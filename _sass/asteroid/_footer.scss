@@ -1,3 +1,31 @@
 footer.site-footer {
     background-color: $light-grey;
+    color: $white;
+
+    .wrapper {
+        padding: 5px;
+
+        .footer-heading {
+            a:hover {
+                text-decoration: none;
+            }
+
+            .mbhs {
+                color: $dark-blue;
+            }
+
+            .nhs {
+                color: $light-blue;
+            }
+        }
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
 }

@@ -1,5 +1,29 @@
 header.site-header {
-    background-color: $dark-blue;
-    padding-top: 20px;
     color: $white;
+
+    .header-masthead {
+        padding-top: 20px;
+        background-color: $dark-blue;
+        .wrapper {
+            a.site-title {
+                color: $white;
+            }
+        }
+    }
+
+    nav.header-navigation {
+        padding: 0px;
+        background-color: $blue;
+        ul {
+            margin: 0px;
+            display: flex;
+            list-style-type: none;
+
+            li {
+                margin: 5px;
+                padding: 10px;
+                float: left;
+            }
+        }
+    }
 }
