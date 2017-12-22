@@ -46,8 +46,22 @@ $light-blue:    #AAD;
   background-size: 100% 100%;
 }
 
+<<<<<<< Updated upstream
 .carousel-test {
     div.item  {
+=======
+a.button {
+    margin: 20px 10px;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+
+    &.primary {
+        background-color: $dark-blue;
+    }
+
+    &.secondary {
+>>>>>>> Stashed changes
         background-color: $light-blue;
     }
 }
