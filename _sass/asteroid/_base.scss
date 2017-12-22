@@ -31,7 +31,7 @@ main.page-content {
   width: 70%;
   padding-top: 1%;
   .header-tag {
-    
+    position:relative;
   }
 }
 
@@ -44,7 +44,15 @@ main.page-content {
   border-radius: 4px;
   vertical-align: middle;
   text-align: center;
-
+}
+.head-text {
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 120px;
+  text-align: left;
+  font-weight: 900;
+  font-size: 5em;
+  color: $dark-grey;
 }
 
 /*
