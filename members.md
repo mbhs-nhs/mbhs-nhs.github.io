@@ -8,7 +8,7 @@ subtitle: Stay up to date on member responsibilities
 
 We will be extending fall community service hours for all members.  Although many of you have already fulfilled your hours, you must submit at least 15 hours by January 12, 2018 to remain in good standing.  We are doing this because we didn’t get x2VOL running until a month or more into school, and didn’t have written guidelines for our hours.
 
-# Guidelines for volunteering
+# Etiquette for volunteering
 
 * be polite
 * you are representing NHS
@@ -30,6 +30,7 @@ No volunteer hours can be earned during club meetings or club affairs unless org
 
 No volunteer hours will be accepted if you are working at a sporting event for your team.
 
+For a detailed document, please look at the full [service hour criteria](https://docs.google.com/document/d/1WDhxRppl2GDg4XbHVJ07fj2Dk0hd-KiwGTzXXzFXaoY/edit?usp=sharing).
 
 # Senior Graduation Stoles
 
@@ -54,3 +55,7 @@ You may use this [template](https://docs.google.com/document/d/1qjg-x6NxfpN9oAyt
 The official commmunications will be through Remind. The Remind code is **@boydnhs17**
 
 You should also ensure that you are on Ms. Smith's mailing list.
+
+# National Honor Society: Future Ready
+
+The National Honor Society wants to help members become #Futuready, that is, prepared for their bright futures. Take a look at their [resources](https://www.nhs.us/futuready). #Futuready is a collection of visual guides and videos especially for middle level and high school students. The series—custom-prepared for NHS and NJHS by an educator—provides guidance and exercises in building fundamental skills necessary for college, career, and lifetime success.

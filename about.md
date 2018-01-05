@@ -8,7 +8,6 @@ permalink: /about/
 # Who are we?
 
 # What do we believe?
-The official commmunications will be through Remind. The Remind code is **@boydnhs17**
 
 # How can I join?
 
