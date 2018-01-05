@@ -4,7 +4,16 @@ footer.site-footer {
 
     .wrapper {
         padding: 5px;
-        margin: 0 100px;
+
+        @media screen and (max-width: 500px) {
+            margin: 0px 10px;
+        }
+
+        @media screen and (min-width: 1001px) {
+            margin: 0px 100px;
+        }
+
+
 
         .footer-heading {
             a:hover {
