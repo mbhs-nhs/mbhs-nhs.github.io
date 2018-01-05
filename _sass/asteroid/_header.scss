@@ -28,20 +28,18 @@ header.site-header {
         padding: 0px;
         background-color: $blue;
         .wrapper {
-            ul {
-                margin: 0px;
-                display: flex;
-                list-style-type: none;
+            display: flex;
+            margin: 0px;
+            flex: 1;
+            list-style-type: none;
+            width: 100%;
 
-                li {
-                    margin: 5px;
-                    padding: 10px;
-                    float: left;
-                    text-align: center;
-                    a {
-                        color: $white;
-                    }
-                }
+            a {
+                margin: 5px;
+                padding: 10px;
+                float: left;
+                text-align: center;
+                color: $white;
             }
 
             max-width: 600px;
