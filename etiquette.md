@@ -18,3 +18,17 @@ You can download that [here](http://bit.ly/2018signatures)
 
 # Attendance
 If you miss a meeting, you are responsible for filling out this [form](http://bit.ly/2018NHSmtgattendance) within 24 hours of it taking place.
+
+# Community service tracking program: [x2Vol](www.x2vol.com)
+x2Vol is how you will be submitting, keeping track of, and verifying your required community service hours for the 2018-2019 year. Please follow the instructions below in order to learn how to:
+
+[create an account](https://myintellivol.desk.com/customer/en/portal/articles/2805684-how-do-i-register-or-join-x2vol-as-a-student-)
+[join a volunteering group](https://myintellivol.desk.com/customer/en/portal/articles/1587468-how-do-i-join-groups-groups-in-x2vol-)
+[submit your hours](https://myintellivol.desk.com/customer/en/portal/articles/1598832-how-do-i-log-hours-in-x2vol-)
+[(other helpful videos)](https://myintellivol.desk.com/customer/en/portal/topics/427457-for-students/articles)
+
+# Finding volunteering opportunities
+Volunteering opportunities can be found here at the following places:
+[Volunteer McKinney](http://volunteermckinney.org/)
+[State Farm Neighborhood of Good](https://neighborhoodofgood.statefarm.com/)
+[Meals on Wheels](https://mowcc.com/)
