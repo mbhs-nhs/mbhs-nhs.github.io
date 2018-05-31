@@ -1,4 +1,4 @@
 ---
 layout: page 
-title: Etiquette 
+title: Important Information and Links
 ---
