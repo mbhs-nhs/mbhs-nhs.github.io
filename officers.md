@@ -14,4 +14,4 @@ title: Officers
 
 Ms. Chancy Smith
 
-[cmsmith@mckinneyisd.net](mailto:cmsmith@mckinneyisd.net)
+[mbhsnhs@mckinneyisd.net](mailto:mbhsnhs@mckinneyisd.net)
