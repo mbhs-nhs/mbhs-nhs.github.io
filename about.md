@@ -7,7 +7,7 @@ permalink: /about/
 This is the official site of the McKinney Boyd High School National Honor Society.
 
 # Who are we?
-We are the [Nationa Honor Society](https://www.nhs.us/), a multifaceted learning experience that provides a springboard to lifelong success. It is a program aimed at skill building and student empowerment and setting the road to future success!
+We are the [National Honor Society](https://www.nhs.us/), a multifaceted learning experience that provides a springboard to lifelong success. It is a program aimed at skill building and student empowerment and setting the road to future success!
 
 # How can I join?
 First, make sure you are eligble for joining the National Honor Society chapter at Boyd, by maintaining a GPA average **above** 3.5 and remaining in good standing (NO in school suspension).
