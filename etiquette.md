@@ -1,6 +1,7 @@
 ---
 layout: page 
 title: Important Information and Links
+permalink: /info/
 ---
 
 This is the important information and links that you will need to know throughout the 2018-2019 NHS year. 
