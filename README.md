@@ -1,3 +1,3 @@
 # mbhs-nhs
 
-In order to run the development server, you will need to install Ruby. However, that is not completely necessary.
+For testing and development do not edit the Master. Install Jekyll based on operating system: https://jekyllrb.com/docs/installation/ and download the repository to local files (Quickest to locate if saved on the Desktop). In the terminal run the command: "gem install bundler" to install bundle. To run the development server, change directories to the mbhs-nhs.github.io folder previously downloaded and run the following command: "bundle exec jekyll serve". If all is successful, go to a web browser and check that the development server is running by entering the following url into the web browser: "localhost:4000". If you see the home page everything is working and you can begin editing the code locally and refreshing the webpage to see the changes. If there is an issue read the terminal output to attempt to determine the issue.
