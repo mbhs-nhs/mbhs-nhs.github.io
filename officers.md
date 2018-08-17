@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Officers
+permalink: /officers/
 ---
 
 * President: Raj Bal
